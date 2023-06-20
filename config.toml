@@ -44,7 +44,7 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/TheAverageJoe01"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
@@ -63,5 +63,6 @@ style = "github-dark"
   url  = "about/"
 [[menu.main]]
   name = "Resume"
+  pageref = "resume"
   weight = 2
-  url = "resume/"
+  url = "CV.pdf"
