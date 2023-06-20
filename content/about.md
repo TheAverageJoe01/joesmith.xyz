@@ -1,24 +1,20 @@
 +++
 title = "About"
 description = "Hi! "
-date = "2023-20-06"
+date = "20/06/20232"
 aliases = ["about","contact"]
 author = "Joe Smith"
 +++
 
-Hi! I'm Joe Smith. I'm a software engineer and a writer. I'm currently working at a startup called [Acme](https://acme.com). I'm also a contributor to [Hugo](https://gohugo.io), a static site generator written in Go.
-
-I'm passionate about technology, writing, and education. I'm currently working on a book about how to learn computer science. I'm also working on a book about how to write a book.
-
-I live in San Francisco with my wife Jane and our dog Fluffy.
+Hello I am Joseph Smith I am a graduate software engineer from the University of lincoln. 
 
 ## Computer science
 
-Im sick at this
+I have acquired extensive experience over the past 3+ years by programming in multiple languages, including Python, SQL, C#, and C++. Additionally, I have gained proficiency in various tools and technologies such as Visual Studio Code and Community, Linux, ROS (Robot Operating System), Unity, and Unreal Engine.
 
 
 
 
 ## Contact
 
-You can reach me at blah blah blah
+To contact me you can email me at [joecsmithdev@gmail.com](mailto:joecsmithdev@gmail.com)
