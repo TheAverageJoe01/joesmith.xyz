@@ -65,4 +65,4 @@ style = "github-dark"
   name = "Resume"
   pageref = "resume"
   weight = 2
-  url = "/files/CV.pdf"
+  url = "files/CV.pdf"
