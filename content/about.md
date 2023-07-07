@@ -14,7 +14,6 @@ I have acquired extensive experience over the past 3+ years by programming in mu
 
 
 
-
 ## Contact
 
 To contact me you can email me at [joecsmithdev@gmail.com](mailto:joecsmithdev@gmail.com)
